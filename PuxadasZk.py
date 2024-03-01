@@ -1,4 +1,4 @@
-rom art import *
+from art import *
 import requests
 import json
 

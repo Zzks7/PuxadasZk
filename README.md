@@ -1,5 +1,5 @@
 # PuxadasZk
-Painel Puxando cpf e cep ainda em desenvolvimento
+PAINEL ATUALIZADO COM TUDO FUNCIONANDO V1.2
 
 # Kali linux
 Códigos para baixar no kali linux
